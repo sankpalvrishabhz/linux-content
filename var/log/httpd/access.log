@@ -1,0 +1,13 @@
+10.56.22.3 - - [14/Sep/2019:06:36:37 +0000] "GET / HTTP/1.1" 200 1274 "-" "Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)" 209.17.96.18
+10.56.19.3 - - [14/Sep/2019:18:56:46 +0000] "GET /robots.txt HTTP/1.1" 200 554 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 66.249.73.95
+10.56.19.3 - - [14/Sep/2019:18:56:46 +0000] "GET /ads.txt HTTP/1.1" 200 554 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.youtube.com/feed/library)" 66.249.73.95
+10.56.4.2 - - [14/Sep/2019:20:44:44 +0000] "GET /robots.txt HTTP/1.1" 200 554 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 66.249.73.95
+10.56.3.4 - - [15/Sep/2019:13:56:11 +0000] "GET /ads.txt HTTP/1.1" 200 554 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 66.249.73.95
+10.56.0.3 - - [16/Sep/2019:09:11:40 +0000] "GET /robots.txt HTTP/1.1" 200 554 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 66.249.79.45
+10.56.0.3 - - [16/Sep/2019:09:11:40 +0000] "GET /ads.txt HTTP/1.1" 200 554 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 66.249.79.45
+10.56.21.2 - - - - "GET /robots.txt HTTP/1.1" 200 554 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +https://www.hotstar.com/in)" 66.249.79.45
+10.56.2.2 - - [28/Oct/2019:02:23:10 +0000] "GET /robots.txt HTTP/1.1" 200 554 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 66.249.79.45
+10.56.19.3 - - - - "GET / HTTP/1.1" 200 1274 "-" "Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)" 209.17.96.138
+10.56.10.2 - - [30/Oct/2019:16:08:27 +0000] "GET /robots.txt HTTP/1.1" 200 554 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 66.249.79.45
+10.56.10.2 - - [30/Oct/2019:16:08:27 +0000] "GET /ads.txt HTTP/1.1" 200 554 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 66.249.79.45
+
